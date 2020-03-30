@@ -1,0 +1,66 @@
+
+#quick-search {
+    float: left;
+    margin-top: 5px;
+}
+
+#quick-search-input{
+width: 250px;
+height: 35px;
+font-size: .85em;
+font-weight: 800;
+color: #919191;
+border: 2px solid #333;
+-webkit-border-radius: 20px;
+padding: 4px 30px;
+background: #fff no-repeat 9px 8px;
+}
+
+#section1{
+background-color: #cae8d5;
+padding: 2% 10%;
+}
+
+#section2{
+color: #fff;
+}
+
+.titlee{
+text-align: center;
+font-size: 3em;
+line-height: 1.5;
+font-family: "Montserrat";
+}
+
+.titleee{
+text-align: center;
+font-family: "Montserrat";
+}
+
+.search{
+text-align: "right";
+}
+.navbar-toggler{
+color: #fff;
+}
+#body{
+background-color: #cae8d5;
+}
+.mytext{
+font-family: "Ubuntu";
+text-align: center;
+}
+.container-fluid{
+padding: 4% 14%;
+}
+.mob{
+background-color: black;
+}
+.mob1{
+background-color: #db3056;
+color: black;
+font-family: "Montserrat";
+}
+.new_mobile{
+color: white;
+}
